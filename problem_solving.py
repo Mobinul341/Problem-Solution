@@ -6,7 +6,6 @@ print("""Hello World
 This is my first program""")
 
 #2. 2nd problem
-print()
 print("Hello World \nThis is my first program")
 
 #3. 3rd problem
